@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pdj2com_16.6.10x64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/pdj2com_16.6.10x64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/pdj2com_16.6.10x64.jar!/" />
+    </SOURCES>
+  </library>
+</component>
